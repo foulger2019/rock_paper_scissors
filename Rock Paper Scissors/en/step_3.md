@@ -14,7 +14,7 @@ For example, if `human` chooses `rock`:
 
 ---task---
 
-Create a new variable: `results`. At the moment, this variable can be equal to "Win". The variable will update with each play as we set up the rules.
+Create a new variable: `results`. At the moment, this variable should be equal to "Win". The variable will update with each play as we set up the rules.
 
 ```
 results = "Win"
